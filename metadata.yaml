@@ -1,5 +1,8 @@
 _repo: Captain-Margaret_73167
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73167-h/images/cover.jpg
 creator:
   author:
     agent_name: Masefield, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/582
     wikipedia: https://en.wikipedia.org/wiki/John_Masefield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73167#Captain-Margaret
 gutenberg_issued: '2024-03-14'
 gutenberg_type: Text
 identifiers:
